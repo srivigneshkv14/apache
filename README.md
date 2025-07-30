@@ -1,4 +1,4 @@
-**Apache**
+                                        **Apache**
 
 Apache HTTP Server (Apache) is one of the most popular and widely used open-source web servers.
 
@@ -22,4 +22,4 @@ Why use Apache?
 
 Does nginx accept dynamic content?
 
-NGINX does not natively process dynamic content (like PHP, Python, or Node.js applications) within its own worker processes. Instead, it acts as a reverse proxy, forwarding requests for dynamic content to a separate, specialized application server that handles the processing.
+  NGINX does not natively process dynamic content (like PHP, Python, or Node.js applications) within its own worker processes. Instead, it acts as a reverse proxy, forwarding requests for dynamic content to a separate, specialized application server that handles the processing.
