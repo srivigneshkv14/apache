@@ -5,14 +5,19 @@ Apache HTTP Server (Apache) is one of the most popular and widely used open-sour
 What does Apache do?
 
 •	It serves web content (HTML, CSS, JS, images, etc.) to users over the internet.
+
 •	It supports virtual hosting, so you can host multiple websites on the same server.
+
 •	It can handle both static and dynamic content (like PHP pages).
 
 Why use Apache?
 
 •	Free and open-source
+
 •	Highly configurable and flexible
+
 •	Works with most platforms and CMS tools (like WordPress)
+
 •	Reliable and battle-tested
 
 Does nginx accept dynamic content?
